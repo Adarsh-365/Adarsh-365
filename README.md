@@ -8,8 +8,8 @@
   <a href="https://leetcode.com/u/Adarsh365/">
     <img src="https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=LeetCode&logoColor=" alt="Leetcode Badge"/>
   </a>
-  <a href="https://x.com/AdarshTayde365">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.geeksforgeeks.org/user/adarshta9xpz/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div align="center">
