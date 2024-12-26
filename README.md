@@ -25,7 +25,8 @@
 
 ## Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adarsh-365&theme=dark)](https://git.io/streak-stats)
-<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh-365&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en&border_radius=5">
+</p><!--
 **Adarsh-365/Adarsh-365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
