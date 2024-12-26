@@ -5,8 +5,8 @@
   <a href="=https://www.linkedin.com/in/adarsh-tayde-nitw-csis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="Youtube Badge"/>
+  <a href="https://leetcode.com/u/Adarsh365/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="https://x.com/AdarshTayde365">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
