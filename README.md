@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
-    <img src="https://c-h-afzal.medium.com/the-leetcode-effect-b0ccb961ce03" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="Youtube Badge"/>
   </a>
   <a href="https://x.com/AdarshTayde365">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
